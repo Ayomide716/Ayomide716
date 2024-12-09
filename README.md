@@ -4,7 +4,7 @@
 - 💬 Ask me about web design.
 - 📫 How to reach me: ayomidefamoyegun1@gmail.com.
 -Skills and Technologies
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
+![HTML5] https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
