@@ -1,6 +1,6 @@
  Hi there, I'm @Ayomide716 👋
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and REACT.
-- 👨‍💻 All my projects are available at https://.
+- 👨‍💻 All my projects are available at https://github.com/Ayomide716/dynamic-portfolio-dashboard.git.
 - 💬 Ask me about web design.
 - 📫 How to reach me: ayomidefamoyegun1@gmail.com.
 <!---
